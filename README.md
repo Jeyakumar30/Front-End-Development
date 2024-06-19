@@ -1,9 +1,4 @@
 # Front-End-Development
-This repository showcases the learning, projects and tasks I completed during my internship
-
-Duration of Internship: 15 Days	Date: 28.12.2022 – 13.01.2023
-
-Name of the Company: Graspear Solutions Private Limited, Madurai -14
 
 **Summary Overview:**
 
